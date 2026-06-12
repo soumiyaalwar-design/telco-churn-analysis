@@ -14,7 +14,7 @@ so the business can take targeted action to retain customers.
 - The business loses **$139,131/month** in revenue due to churn
 
 ## Dashboard Preview
-![Dashboard](Telco_Churn_Dashboard.png)
+![Dashboard](Telco_Churn_Dashboard.pdf)
 
 ## Tools Used
 - **Python** — pandas, seaborn, matplotlib, scikit-learn
